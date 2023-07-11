@@ -21,7 +21,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Kal-El",
       "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
+      "characters": "Kal-El",
+      "alt_img": "https://i.pinimg.com/736x/20/e9/9e/20e99e9e27a1e25917bc8d1968589a19.jpg"
     },
     {
       "id": "dc-flash",
@@ -38,14 +39,6 @@
       "alter_ego": "Alan Scott",
       "first_appearance": "All-American Comics #16",
       "characters": "Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz"
-    },
-    {
-      "id": "dc-arrow",
-      "superhero": "Green Arrow",
-      "publisher": "DC Comics",
-      "alter_ego": "Oliver Queen",
-      "first_appearance": "More Fun Comics #73",
-      "characters": "Oliver Queen"
     },
     {
       "id": "dc-wonder",
@@ -70,14 +63,6 @@
       "alter_ego": "Dick Grayson",
       "first_appearance": "Detective Comics #38",
       "characters": "Dick Grayson"
-    },
-    {
-      "id": "dc-blue",
-      "superhero": "Blue Beetle",
-      "publisher": "DC Comics",
-      "alter_ego": "Dan Garret",
-      "first_appearance": "Mystery Men Comics #1",
-      "characters": "Dan Garret, Ted Kord, Jaime Reyes"
     },
     {
       "id": "dc-black",
@@ -166,6 +151,15 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "_hLu1_l",
+      "superhero": "Deadpool",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Wade Wilson",
+      "first_appearance": "\"The New Mutants\" #98",
+      "characters": "Wade Wilson",
+      "alt_img": "https://dibujando.net/files/fs/p/i/2016/53/12654395_10207370532277960_826305136621722064_n__1__257036.jpg"
     }
   ]
 }
